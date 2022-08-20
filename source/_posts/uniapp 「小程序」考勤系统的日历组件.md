@@ -1,6 +1,7 @@
 ---
 title: 'uniapp 「小程序」考勤系统的日历组件'
 date: 2021-03-04 15:50:56
+summary: '用uniapp开发钉钉上的日历组件。'
 tags: 
 	- uniapp
 ---
