@@ -1,8 +1,8 @@
 ---
 title: 'vue传值的几种方法'
 date: 2020-08-12
-tags: 
-	- Vue
+categories:
+  - Vue
 ---
 
 ## 一、父子组件间传值

@@ -3,7 +3,7 @@ title: 'web在线解压编辑'
 date: 2022-08-01 14:49:25
 summary: '在线解压压缩包并展示文件内容，修改后重新打包上传。'
 tags: 
-	- Vue
+	- jszip
 	- monaco-editor
 ---
 

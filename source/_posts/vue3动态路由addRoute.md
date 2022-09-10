@@ -3,8 +3,9 @@ title: 'vue3添加动态路由'
 date: 2022-04-04 19:57:07
 summary: 'Vue3中通过addRoute添加动态路由'
 tags: 
-	- Vue
 	- 动态路由
+categories:
+  - Vue
 ---
 
 ### 路由方法
